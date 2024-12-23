@@ -33,10 +33,10 @@
 
 ## 🚀 Como anda meus commits?
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadoia&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadoia614&show_icons=true&theme=cobalt)
 
 ## 🖥️ Linguagens que usei em meus commits
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadoia614&hide=GLSL)
 
 ![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
