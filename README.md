@@ -39,4 +39,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadoia614&hide=GLSL)
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kadoia614/Kadoia614/blob/output/github-contribution-grid-snake.svg)
