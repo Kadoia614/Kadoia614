@@ -33,7 +33,7 @@
 
 ## 🚀 Meus commits?
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadoia614&show_icons=true&theme=cobalt)
+[![kadoia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadoia614)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖥️ Linguagens que usei em meus commits
 
