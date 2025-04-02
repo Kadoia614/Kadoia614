@@ -1,43 +1,65 @@
-## Olá, eu sou o Miguel 👋
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+# 👋 Olá! Eu sou Miguel A. M. Moraes
 
-### 🛠️ Essas são as linguagens que conheço.
+## 🚀 Sobre Mim
+Desenvolvedor fullstack apaixonado por tecnologia e design, sempre buscando inovação e aprimoramento técnico. Com experiência no desenvolvimento de sistemas modernos e interfaces dinâmicas, trabalho com foco em UX/UI e na criação de soluções eficientes para desafios reais.
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Sequelize.JS](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+Atualmente, atuo como **Chefe de Divisão** no setor de desenvolvimento da Prefeitura de Itapecerica da Serra, onde sou responsável pela melhoria, manutenção e criação de sistemas que facilitam os trâmites do dia a dia.
 
-### 🗄️ Banco de dados
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PHP Admin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+## 🛠 Tecnologias e Ferramentas
 
-## 🚀 Meus commits?
+### 🖥️ Linguagens
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-[![kadoia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadoia614)](https://github.com/anuraghazra/github-readme-stats)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-## 🖥️ Linguagens que usei em meus commits
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![CORS](https://img.shields.io/badge/-CORS-FF8800?style=flat&logo=internet-explorer&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadoia614&hide=GLSL)
+### 🔒 Segurança & Autenticação
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/-Bcrypt-00C853?style=flat&logo=security&logoColor=white)
 
-![Snake animation](https://github.com/Kadoia614/Kadoia614/blob/output/github-contribution-grid-snake-dark.svg)
+### 🗄️ Banco de Dados
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+
+### 📜 Documentação & Gestão
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadoia614&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadoia614&layout=compact&theme=radical)](https://github.com/Kadoia614)
+
+---
+
+## 🚀 Meus Projetos
+🔹 Confira alguns dos meus projetos no GitHub:  
+👉 [Repositórios no GitHub](https://github.com/Kadoia614?tab=repositories)
+
+---
+
+## 📫 Contato
+📧 Email: [miguel_moraes2001@hotmail.com](mailto:miguel_moraes2001@hotmail.com)
+
+🔗 LinkedIn: [Miguel Moraes](https://linkedin.com.br/in/miguel-moraes-46a383235)
+
+🔗 GitHub: [Kadoia614](https://github.com/Kadoia614)
+
+💼 Aberto para novas oportunidades e colaborações! Vamos criar algo incrível juntos! 🚀
 
