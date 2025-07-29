@@ -1,4 +1,5 @@
 # 👋 Olá! Eu sou Miguel A. M. Moraes
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kadoia614&data=followers,repositories,commits&theme=radical)](https://github.com/Jurredr/github-widgetbox)
 
 ## 🚀 Sobre Mim
 Desenvolvedor fullstack com foco em soluções, sempre buscando inovação e aprimoramento técnico. Com experiência no desenvolvimento de sistemas completos que unem backend e frontend de forma intuitiva, trabalho com foco na criação de soluções eficientes para desafios reais assim otimizando processos e resolvendo problemas.
@@ -54,9 +55,7 @@ Atualmente, atuo como **Chefe de Divisão** no setor de desenvolvimento da Prefe
 
 ## 📈 GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=Kadoia614&color=blue)
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadoia614&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadoia614&layout=compact&theme=radical)](https://github.com/Kadoia614)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadoia614&hide_progress=true&theme=radical)
 
 ---
 
