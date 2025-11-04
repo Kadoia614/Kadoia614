@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou Miguel A. M. Moraes
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kadoia614&data=followers,repositories,commits&theme=radical)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kadoia614&data=followers,repositories,commits&theme=radical)](https://github.com/Kadoia614)
 
 ## 🚀 Sobre Mim
 Desenvolvedor fullstack com foco em soluções, sempre buscando inovação e aprimoramento técnico. Com experiência no desenvolvimento de sistemas completos que unem backend e frontend de forma intuitiva, trabalho com foco na criação de soluções eficientes para desafios reais assim otimizando processos e resolvendo problemas.
