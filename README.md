@@ -10,9 +10,16 @@ Atualmente, atuo como **Chefe de Divisão** no setor de desenvolvimento da Prefe
 
 ## 🛠 Tecnologias e Ferramentas
 
+### 🤖 IA
+![GitHubCopilot](https://img.shields.io/badge/github%20copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=Cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+
 ### 🖥️ Linguagens
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -30,6 +37,7 @@ Atualmente, atuo como **Chefe de Divisão** no setor de desenvolvimento da Prefe
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
 ### 🔒 Segurança & Autenticação
@@ -41,11 +49,13 @@ Atualmente, atuo como **Chefe de Divisão** no setor de desenvolvimento da Prefe
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
-### ⚙️ Infraestrutura & Deploy
+### ⚙️ Infraestrutura & Deploy (DevOps)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=nodedotjs&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 
 ### 📜 Documentação & Gestão
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
